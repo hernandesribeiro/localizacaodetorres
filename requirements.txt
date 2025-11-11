@@ -4,8 +4,9 @@ matplotlib.pyplot
 numpy
 io
 tempfile
-from collections import defaultdict
+defaultdict
 os 
+
 
 
 
