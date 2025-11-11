@@ -1,10 +1,11 @@
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import io
-import tempfile
+streamlit
+pandas
+matplotlib.pyplot
+numpy
+io
+tempfile
 from collections import defaultdict
-import os 
+os 
+
 
 
